@@ -3,7 +3,7 @@ An implementation of TSP(Traveling Salesman Problem) by Ant Colony Algorithm in 
 ## Details
 * Solve TSP in Java.
 * Adopt Object-Oriented.
-* Divide into 4 Classes: __AntAlgorithm__, __Ant__, __City__, __Road__ and __Constant__.
+* Divide into 5 Classes: __AntAlgorithm__, __Ant__, __City__, __Road__ and __Constant__.
 * Verify respectively in 3 different size of cities: 10 cities, 20 cities and 31 cities.
 
 ## Classes
