@@ -1,0 +1,12 @@
+
+public class Route 
+{
+	float distance;//æ‡¿Î
+	float pheromone;//–≈œ¢Àÿ 
+
+	Route()
+	{
+		distance=0.0f;
+		pheromone=Constant.C;
+	}
+}
