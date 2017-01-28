@@ -9,7 +9,7 @@ An implementation of TSP(Traveling Salesman Problem) by Ant Colony Algorithm in 
 ## Classes
 * __AntAlgorithm__: controls the whole algorithm's life cycle including initing all the ants, choosing the next city and simulating the round trip for each ant, updating pheromone for each road.
 * __Ant__: portrays the serveral actions of ant such as initing the birthplace, choosing the next city, arriving the next city.
-* __City__: contains the id of city, the sum of visibility and pheromone with weight, and the rate to be choosed by one ant.
+* __City__: contains the id of city, the sum of visibility and pheromone with weight, and the possibility to be choosed by one ant.
 * __Road__: contains the distance and the pheromone of each road.
 * __Constant__：contains the data of map, the initial value of pheromone(C), the max number of round trips, the number of ants, the flow-rate of pheromone and so on.
 
