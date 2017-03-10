@@ -15,6 +15,6 @@ An implementation of TSP(Traveling Salesman Problem) by Ant Colony Algorithm in 
 
 ## For More
 If you want to learn more information about this implementation, please visit the following three sites(but a pity only in Chinese):
-* [use Ant Colony Algorithm to solve TSP(1)-Summary](http://yaochenkun.cn/wordpress/index.php/2016/12/07/ant_article/)
-* [use Ant Colony Algorithm to solve TSP(2)-Core Code](http://yaochenkun.cn/wordpress/index.php/2016/12/12/ant2_article/)
-* [use Ant Colony Algorithm to solve TSP(3)-Verification](http://yaochenkun.cn/wordpress/index.php/2016/12/12/ant3_article/)
+* [use Ant Colony Algorithm to solve TSP(1)-Summary](http://yaochenkun.cn/index.php/2016/12/07/ant_article/)
+* [use Ant Colony Algorithm to solve TSP(2)-Core Code](http://yaochenkun.cn/index.php/2016/12/12/ant2_article/)
+* [use Ant Colony Algorithm to solve TSP(3)-Verification](http://yaochenkun.cn/index.php/2016/12/12/ant3_article/)
